@@ -1,0 +1,507 @@
+@relation trainingSet
+
+@attribute Document string
+@attribute @@class@@ {AuthenticationBypass, CrossSiteScripting, DenialOfService, DirectoryTraversal, FileInclude, InformationDisclosure, Overflow, RemoteCodeExecution, SQLinjection,UnspecifiedVulnerability}
+
+@data
+"modul befor modul violat protocol ensur field sign which remot attack bypass authent leverag assert from provid ", AuthenticationBypass
+"user modul befor might remot authent user bypass intend login access rule successfulli login unknown vector ", AuthenticationBypass
+"openid modul befor allow remot openid user authent other user unspecifi vector ", AuthenticationBypass
+"site document modul allow remot authent user gain privileg other user leverag access content permiss list tabl obtain session id from databas ", AuthenticationBypass
+"modul befor modul violat protocol check reus valu which remot attack bypass authent leverag assert from provid ", AuthenticationBypass
+"memcach allow remot attack bypass authent send invalid request sasl credenti send anoth request incorrect sasl credenti ", AuthenticationBypass
+"befor allow remot attack bypass multipl recaptcha protect mechan against brute forc credenti guess provid correct respons singl recaptcha ", AuthenticationBypass
+"core server compon befor when us ldap authent anonym bind remot attack bypass authent empti password ", AuthenticationBypass
+"doe properli check replic privileg which remot authent user bypass intend backup restrict call function ", AuthenticationBypass
+"mod_authz_svn befor when us apach httpd doe properli restrict anonym access which remot anonym user read hidden file path name ", AuthenticationBypass
+"function ssh when mode us lack check refus deadlin x connect which make easier remot attack bypass intend access restrict connect outsid permit time window ", AuthenticationBypass
+"unspecifi vulner manag compon remot attack affect unknown vector relat dm other ", AuthenticationBypass
+"default configur ha fals valu webcontain properti which remot attack obtain privileg access unspecifi vector ", AuthenticationBypass
+"class remot attack upload execut arbitrari script unspecifi vector ", AuthenticationBypass
+"java gui web gui compon tsm backup archiv client aix linux solari window z os z os window aix linux linux z solari aix window linux mail when data protect lotu domino compon us local user bypass authent restor domino databas transact log backup unspecifi vector ", AuthenticationBypass
+"function earlier when ldap us doe properli consid bind semant which remot attack bypass authent empti password ", AuthenticationBypass
+"function doe properli determin valid authent cooki which make easier remot attack obtain access forg cooki ", AuthenticationBypass
+"unspecifi vulner befor remot attack execut arbitrari code unknown vector ", AuthenticationBypass
+"vty authent implement incorrectli reli linux io intern network configur which remot attack bypass authent leverag access sourc ip address aka bug id ", AuthenticationBypass
+"through through when run doe correctli enforc user privileg which remot attack bypass access user profil permiss ", AuthenticationBypass
+"core upload modul befor remot authent user bypass intend access restrict read file attach content unknown vector ", AuthenticationBypass
+"node befor remot attack bypass node valid have unspecifi other impact unknown vector relat contribut modul ", AuthenticationBypass
+"core blogapi modul befor doe properli valid unspecifi content field intern form which remot authent user bypass intend access restrict modifi field valu ", AuthenticationBypass
+"doe properli maintain row secur statu cach plan which might attack bypass intend access restrict leverag session perform queri more than on role ", AuthenticationBypass
+"file modul befor doe properli check permiss view file which remot authent user certain permiss bypass intend restrict read file attach file content file field ", AuthenticationBypass
+"valid function core upload modul befor remot authent user bypass intend access restrict attach file content relat logic error ", AuthenticationBypass
+"doe properli restrict access node list when us contribut node access which remot authent user access content overview page permiss read all publish node access admin content page ", AuthenticationBypass
+"imag modul befor when privat file system us doe properli restrict access deriv imag which remot attack read deriv imag otherwis restrict imag unspecifi vector ", AuthenticationBypass
+"user modul befor allow remot attack gain privileg leverag contribut custom code call function explicit categori load all role arrai ", AuthenticationBypass
+"befor ignor access restrict submit button which might remot attack bypass intend access restrict leverag permiss submit form button ha access set fals server side form definit ", AuthenticationBypass
+"upload modul befor doe properli support case insensit filenam handl databas configur which remot authent user bypass intend restrict download file upload differ file similar name ", AuthenticationBypass
+"comment modul befor allow remot authent user certain privileg bypass intend access restrict reinstat remov comment craft url relat unpublish bypass issu ", AuthenticationBypass
+"allow remot attack bypass intend restrict vector relat list show node lack join claus node tabl ", AuthenticationBypass
+"server aka tivoli storag manag doe properli restrict us asnodenam option which remot attack read write backup data leverag proxi author ", AuthenticationBypass
+"method befor doe consid whether caller author which remot authent user bypass intend restrict read write arbitrari applic data caus denial servic applic disrupt web applic set craft global context ", AuthenticationBypass
+"befor doe properli gener csrf token valu which remot attack bypass intend access restrict predict valu ", AuthenticationBypass
+"befor doe us constant time algorithm compar csrf token which make easier remot attack bypass intend access restrict measur time differ ", AuthenticationBypass
+"session persist implement mishandl session attribut which remot authent user bypass intend restrict execut arbitrari code privileg context web applic place craft object session ", AuthenticationBypass
+"function doe verifi access right ha been grant which remot attack access snapshot visit shadow copi directori ", AuthenticationBypass
+"function befor doe properli check administr privileg dure creation machin account which remot authent user bypass intend access restrict leverag exist domain both dc window dc similar issu ", AuthenticationBypass
+"doe properli handl connect method peer respons when configur which remot attack bypass intend restrict gain access backend proxi connect request ", AuthenticationBypass
+"pl perl pl tcl befor befor befor do properli protect script execut differ sql user ident within same session which remot authent user gain privileg craft script code secur defin function demonstr redefin standard function redefin oper differ vulner than ", AuthenticationBypass
+"make check command test suit earlier doe properli invok initdb specifi authent requir databas cluster us test which local user gain privileg leverag access cluster ", AuthenticationBypass
+"insecur directori permiss rpm distribut local user gain privileg read plaintext password file ", AuthenticationBypass
+"through authent databas user gain addit privileg knowledg backend protocol us craft set role other databas user differ vulner than ", AuthenticationBypass
+"core server compon befor befor befor doe us appropri privileg reset role reset session author oper which remot authent user gain privileg note due incomplet fix ", AuthenticationBypass
+"doe properli enforc admin option restrict which remot authent member role add remov arbitrari user role call set role command associ grant command ", AuthenticationBypass
+"earlier local user bypass execut permiss check function us creat aggreg command ", AuthenticationBypass
+"sshd us world writabl permiss tty devic which local user caus denial servic termin disrupt possibl have unspecifi other impact write devic demonstr write escap sequenc ", AuthenticationBypass
+"doe properli verifi capabl which remot authent user bypass intend access restrict creat draft leverag subscrib role demonstr action ", AuthenticationBypass
+"cross site script xss vulner project modul remot attack inject arbitrari web script html unknown attack vector ", CrossSiteScripting
+"script xss vulner modul allow remot authent user permiss creat new menu inject arbitrari web script menu descript which properli handl menu administr overview ", CrossSiteScripting
+"cross site script xss vulner modul possibl other version includ remot authent user administ languag permiss inject arbitrari web script html languag name nativ languag name field custom languag form ", CrossSiteScripting
+"script xss vulner handler befor modul remot attack inject arbitrari web script vector involv whitelist element possibl relat tag ", CrossSiteScripting
+"cross site script xss vulner allow remot attack inject arbitrari web script html unspecifi vector ", CrossSiteScripting
+"doe delet all relat content when input format delet which prevent content from be properli filter remot attack conduct cross site script xss attack unspecifi vector ", CrossSiteScripting
+"multipl cross site script xss through through remot attack inject arbitrari web script html variou html tag valu legend tag valu paramet us label input tag possibl due incomplet blacklist ", CrossSiteScripting
+"multipl cross site script xss parser befor remot attack inject arbitrari web script html craft rss feed ", CrossSiteScripting
+"cross site script xss vulner modul drupal remot attack inject arbitrari web script html unspecifi vector ", CrossSiteScripting
+"script xss vulner befor allow remot authent user creat book content edit node book hierarchi permiss inject arbitrari web script book page titl ", CrossSiteScripting
+"privat filesystem befor trust mime type sent web browser which remot authent user conduct cross site script xss attack upload file contain arbitrari web script html ", CrossSiteScripting
+"cross site script xss vulner befor us vb remot attack inject arbitrari web script html craft utf byte sequenc content type meta tag which treat utf internet explor ", CrossSiteScripting
+
+"cross site script xss befor allow remot authent user inject arbitrari web script html craft utf byte sequenc treat utf internet explor which properli handl html export book featur remot authent user administ taxonomi permiss inject arbitrari web script html help text arbitrari vocabulari note vector exist becaus incomplet fix ", CrossSiteScripting
+"script xss vulner modul remot attack inject arbitrari web script site variabl relat lack escap variabl tabl ", CrossSiteScripting
+"disput cross site script xss vulner modul remot attack inject arbitrari web script html year paramet eventcaland note issu ha been disput secur team mai site specif so cve reject futur ", CrossSiteScripting
+"interpret conflict befor when internet us remot attack conduct cross site script xss attack invalid utf byte sequenc which process utf s html filter process utf internet effect remov charact from document defeat html protect mechan ", CrossSiteScripting
+"script xss vulner modul befor remot authent user certain permiss inject arbitrari web script descript field ", CrossSiteScripting
+"script xss vulner modul befor remot attack inject arbitrari web script vector relat css ", CrossSiteScripting
+"cross site script xss vulner befor when run older version jqueri vulner remot attack inject arbitrari web script html vector involv unspecifi javascript function us select dom element ", CrossSiteScripting
+"multipl cross site script xss befor remot attack inject arbitrari web script html some server variabl includ remot authent administr inject arbitrari web script html custom content type name ", CrossSiteScripting
+"multipl cross site script xss befor remot authent user certain privileg inject arbitrari web script html action descript action messag node taxonomi term relat action featur trigger modul ", CrossSiteScripting
+"cross site script xss vulner modul earlier remot attack inject arbitrari web script html unspecifi vector ", CrossSiteScripting
+"script xss vulner modul remot attack inject arbitrari web script unspecifi vector relat taxonomi inform ", CrossSiteScripting
+"script xss vulner modul allow remot authent user administ site wide contact form permiss inject arbitrari web script contact categori name ", CrossSiteScripting
+"cross site script xss vulner portal login page cisco adapt secur applianc asa devic remot attack inject arbitrari web script html craft url aka bug id ", CrossSiteScripting
+"cross site script xss vulner allow remot attack inject arbitrari web script html craft schema brows url ", CrossSiteScripting
+"multipl cross site script xss allow remot attack inject arbitrari web script html craft field mishandl dure render analysi page relat schema browser page relat ", CrossSiteScripting
+"script xss vulner editor  allow remot authent user inject arbitrari web script queri trigger json data respons ", CrossSiteScripting
+"cross site script xss befor remot authent user inject arbitrari web script tabl name set valu search queri hostnam locat header ", CrossSiteScripting
+"script xss vulner function allow remot authent user inject arbitrari web script tabl name normal page ", CrossSiteScripting
+"cross site script xss vulner befor remot authent user inject arbitrari web script html craft data from oauth provid ", CrossSiteScripting
+"cross site script xss vulner allow remot attack inject arbitrari web script html rest prototyp session check ", CrossSiteScripting
+"script xss vulner function allow remot attack inject arbitrari web script access helper titl ", CrossSiteScripting
+"script xss vulner form function class allow remot attack inject arbitrari web script widget titl ", CrossSiteScripting
+"script xss vulner legaci theme preview implement allow remot attack inject arbitrari web script craft string ", CrossSiteScripting
+"cross site script xss vulner uddi servic compon remot attack inject arbitrari web script html search paramet aka uddi servic elev privileg vulner ", CrossSiteScripting
+"cross site script xss vulner function allow remot attack inject arbitrari web script html unspecifi vector ", CrossSiteScripting
+"through us doe properli gener document which remot attack conduct cross site script xss attack craft url ", CrossSiteScripting
+"cross site script xss vulner formerli moxiecod shim us other product remot attack execut same origin javascript function target paramet demonstr execut certain click function relat ", CrossSiteScripting
+"unspecifi vulner earlier remot administr affect avail vector relat server log ", DenialOfService
+"unspecifi vulner earlier earlier remot administr affect avail vector relat server privileg ", DenialOfService
+"function doe valid tiff start data which remot attack caus denial servic read possibl have unspecifi other impact craft header data ", DenialOfService
+"function bio implement h remot attack caus denial servic memori consumpt short invalid encod ", DenialOfService
+"function h remot attack obtain sensit inform from process stack memori caus denial servic buffer over read craft ebcdic data ", DenialOfService
+"through through through linux unix window remot authent user caus denial servic daemon crash craft drda messag ", DenialOfService
+"fwdstate method doe properli handl ssl handshak error when built openssl option which remot attack caus denial servic applic crash plaintext http messag ", DenialOfService
+"password hash api befor secur password hash aka phpass modul remot attack caus denial servic cpu memori consumpt craft request ", DenialOfService
+"imag modul befor remot attack caus denial servic cpu disk space consumpt larg number new deriv request ", DenialOfService
+"multisit featur befor allow remot attack caus denial servic craft http host header relat determin which configur file us ", DenialOfService
+"function pageinspect extens attack bypass intend access restrict consequ obtain sensit server memori inform caus denial servic server crash craft bytea valu brin index page ", DenialOfService
+"algorithm complex vulner function text filter system befor remot authent user certain role caus denial servic cpu consumpt long email address ", DenialOfService
+"name befor when dn cooki enabl remot attack caus denial servic insist assert failur daemon exit malform packet more than on cooki option ", DenialOfService
+"name allow remot attack caus denial servic assert failur daemon exit craft signatur record dname record relat ", DenialOfService
+"name doe properli handl dname record when pars fetch repli messag which remot attack caus denial servic assert failur daemon exit malform packet rndc aka control channel interfac relat ", DenialOfService
+"function phar extens allow remot attack obtain sensit inform from process memori caus denial servic read applic crash place pk signatur invalid locat ", DenialOfService
+"intern dn server befor when ad dc configur remot authent user caus denial servic read possibl obtain sensit inform from process memori upload craft dn txt record ", DenialOfService
+"microsoft net framework doe prevent recurs compil xslt transform which remot attack caus denial servic perform degrad craft xslt data aka net framework stack overflow denial servic vulner ", DenialOfService
+"resolv nginx doe properli limit cname resolut which remot attack caus denial servic worker process resourc consumpt vector relat arbitrari name resolut ", DenialOfService
+"when nxdomain redirect enabl remot attack caus denial servic requir assert failur daemon exit craft flag valu queri ", DenialOfService
+"remot attack caus denial servic infinit loop buffer overflow crash larg unicod charact rang regular express ", DenialOfService
+"memori leak implement befor s g remot attack caus denial servic memori consumpt provid invalid usernam connect attempt relat ", DenialOfService
+"fmtstr function befor s g improperli calcul string length which remot attack caus denial servic overflow read possibl have unspecifi other impact long string demonstr larg amount data differ vulner than ", DenialOfService
+"function befor s g doe verifi certain memori alloc succe which remot attack caus denial servic write memori consumpt possibl have unspecifi other impact long string demonstr larg amount data differ vulner than ", DenialOfService
+"befor reli http statu code after respons pars failur which remot http server caus denial servic assert failur daemon exit malform respons ", DenialOfService
+"resolv nginx allow remot attack caus denial servic invalid pointer derefer worker process crash craft udp dn respons ", DenialOfService
+"unspecifi vulner allow remot authent user affect avail unknown vector relat optim ", DenialOfService
+"unspecifi vulner allow remot authent user affect avail unknown vector relat partit ", DenialOfService
+"unspecifi vulner earlier remot authent user affect avail unknown vector relat replic ", DenialOfService
+"function allow remot attack caus denial servic read applic crash craft network traffic ", DenialOfService
+"befor remot authent user caus denial servic insist assert failur daemon exit malform address prefix list apl record ", DenialOfService
+"name befor when debug log enabl remot attack caus denial servic requir assert failur daemon exit daemon crash possibl have unspecifi other impact opt data ec option ", DenialOfService
+"function remot attack obtain sensit inform caus denial servic read applic crash larg argument imagerot function ", DenialOfService
+"aka mdn gatewai allow remot attack caus denial servic devic reload send malform mdn udp packet over aka bug id ", DenialOfService
+"radiu client implement when share radiu secret configur remot radiu server caus denial servic devic reload malform answer aka bug id ", DenialOfService
+"state machin through through remot attack caus denial servic ipsec connect termin craft packet tunnel endpoint aka bug id ", DenialOfService
+"function memcach other version when run verbos mode remot attack caus denial servic segment fault request delet kei which doe account lack null termin kei trigger buffer over read when print stderr differ vulner than ", DenialOfService
+"memcach when run verbos mode remot attack caus denial servic crash request trigger unbound kei print dure log relat issu quickli grep out sourc tree differ vulner than ", DenialOfService
+"multipl integ signed error function earlier remot attack caus denial servic crash larg bodi length valu packet ", DenialOfService
+"function memcach other version when run verbos mode remot attack caus denial servic segment fault request delet kei which doe account lack null termin kei trigger buffer over read when print stderr ", DenialOfService
+"function ldb us ad ldap server befor mishandl certain which remot attack caus denial servic infinit loop craft packet ", DenialOfService
+"ldap server ad domain control befor doe check return valu ensur success memori alloc which remot attack caus denial servic memori consumpt daemon crash craft packet ", DenialOfService
+"name allow remot attack caus denial servic requir assert failur daemon exit malform class attribut ", DenialOfService
+"error function allow remot attack caus denial servic uniniti pointer derefer applic crash includ filenam zip phar archiv ", DenialOfService
+"function remot attack caus denial servic null pointer derefer applic crash phar file craft tar archiv entri which link indic refer file doe exist ", DenialOfService
+"befor t p d when us multi thread client write psk ident hint incorrect data structur which remot server caus denial servic race condit doubl free craft messag ", DenialOfService
+"function befor e remot server caus denial servic segment fault zero p valu anonym diffi hellman dh messag ", DenialOfService
+"befor q e remot attack caus denial servic null pointer derefer applic crash rsa pss signatur lack mask gener function paramet ", DenialOfService
+"label decompress function auth allow remot attack caus denial servic cpu consumpt crash request long name refer itself note vulner exist becaus incomplet fix ", DenialOfService
+"cisco through through allow remot attack caus denial servic devic reload packet requir nat mpl action aka bug id ", DenialOfService
+"directori travers vulner befor remot authent user bypass intend restrict list parent directori slash dot dot pathnam us web applic getresourc call demonstr directori ", DirectoryTraversal
+"directori travers vulner class remot attack write arbitrari file dot dot zip archiv entri mishandl dure extractto call ", DirectoryTraversal
+"directori travers vulner befor when run window remot attack read arbitrari file dot dot resourc ", DirectoryTraversal
+"directori travers vulner allow remot attack read arbitrari file unspecifi vector relat snapshot api call ", DirectoryTraversal
+"directori travers vulner earlier befor when us ntf fat filesystem remot attack read arbitrari cgi file trail plu encod plu dot encod dot encod space charact possibl relat httpservlet filehandl function documentroot option ", DirectoryTraversal
+"directori travers vulner befor through when run system support backslash path separ case insensit file name remot attack access arbitrari file encod backslash sequenc filenam match pattern option ", DirectoryTraversal
+"directori travers vulner when site plugin enabl remot attack read arbitrari file unspecifi vector ", DirectoryTraversal
+"directori travers vulner gi editor befor remot authent user includ execut arbitrari local file craft geometri type paramet ", DirectoryTraversal
+"directori travers vulner error report featur befor remot authent user obtain potenti sensit inform about file' line count craft paramet ", DirectoryTraversal
+"directori travers vulner remot attack read arbitrari file dot dot skin paramet note can leverag execut arbitrari code obtain ldap credenti access servic admin soap api ", DirectoryTraversal
+"directori travers vulner allow remot attack read arbitrari web applic file rel pathnam wicket resourc correspond null packag ", DirectoryTraversal
+"multipl directori travers face jsf befor allow remot attack read arbitrari file dot dot ln paramet ", DirectoryTraversal
+"directori travers vulner web interfac build remot attack obtain properti inform arbitrari home folder properti action dot dot src paramet ", DirectoryTraversal
+"directori travers vulner web interfac build remot attack list all usernam go action dot dot search bar valu ", DirectoryTraversal
+"directori travers vulner web interfac build remot attack copi arbitrari user' home folder move action dot dot src paramet ", DirectoryTraversal
+"directori travers vulner plugin allow remot attack creat arbitrari file unspecifi vector ", DirectoryTraversal
+"directori travers vulner plugin allow remot attack creat arbitrari file unspecifi vector ", DirectoryTraversal
+"directori travers vulner function us allow remot attack read arbitrari file dot dot backslash default uri ", DirectoryTraversal
+"directori travers lighttpd allow remot attack read arbitrari file dot dot host name relat ", DirectoryTraversal
+"directori travers vulner allow remot attack read arbitrari file dot dot full pathnam tr paramet solr select when respons writer wt paramet set xslt note can leverag us separ xxe xml extern entiti vulner access file across restrict network boundari ", DirectoryTraversal
+"directori travers vulner method umaninv servic zcm remot attack read arbitrari file dot dot filenam paramet getfil action zenwork unmaninv ", DirectoryTraversal
+"directori travers vulner epolici epo allow remot attack upload arbitrari file craft request over agent server commun channel demonstr write softwar directori ", DirectoryTraversal
+"directori travers vulner featur  allow remot authent user read arbitrari file possibl have unspecifi other impact paramet specifi craft export type ", DirectoryTraversal
+"travers vulner linux unix remot authent user modifi data unspecifi vector ", DirectoryTraversal
+"directori travers vulner agent interfac befor support pack support pack remot attack read arbitrari file directori travers sequenc request ", DirectoryTraversal
+"directori travers vulner modul window remot authent user modifi delet read arbitrari file pathnam file field ", DirectoryTraversal
+"directori travers vulner allow remot attack overwrit arbitrari file craft applic file ", DirectoryTraversal
+"directori travers vulner allow remot attack includ execut arbitrari local file encod dot dot slash paramet ", DirectoryTraversal
+"directori travers vulner distribut allow remot attack creat file arbitrari directori dot dot pathnam within http request ", DirectoryTraversal
+"directori travers vulner store procedur befor through through through remot attack replac jar file unspecifi vector ", DirectoryTraversal
+"directori travers vulner allow remot attack read arbitrari file paramet ", DirectoryTraversal
+"file upload implement doe properli handl invalid open squar bracket charact name valu which make easier remot attack caus denial servic malform index conduct directori travers attack dure multi file upload leverag script lack it own filenam restrict ", DirectoryTraversal
+"directori travers vulner allow remot authent user read write arbitrari file list creat arbitrari directori dot dot colon forward slash list put get command ", DirectoryTraversal
+"directori travers oscommerc remot attack includ execut arbitrari local file dot dot set paramet b c set paramet paramet filter paramet templat paramet ", DirectoryTraversal
+"default configur pjl access valu file system extern access setmfp printer color mfp printer printer enabl pjl command us device' filesystem which remot attack read arbitrari file command insid print job demonstr directori travers attack ", DirectoryTraversal
+"multipl directori travers earlier remot attack read arbitrari file dot dot page paramet certain php script under wp admin import paramet demonstr discov full path request wp config pathnam remot attack modifi arbitrari file dot dot file paramet ", DirectoryTraversal
+"directori travers vulner earlier remot attack read arbitrari file delet arbitrari file caus denial servic dot dot backup paramet action note might same ", DirectoryTraversal
+"directori travers vulner administr consol allow remot attack read arbitrari file dot dot ", DirectoryTraversal
+"directori travers vulner through remot attack read arbitrari file filesystem idm server directori travers sequenc ext paramet ", DirectoryTraversal
+"directori travers vulner allow remot attack have unspecifi impact craft loadplugin directori ", DirectoryTraversal
+"directori travers vulner server through remot attack access arbitrari file directori travers sequenc ", DirectoryTraversal
+"directori travers vulner allow remot attack read arbitrari file dot dot backslash other sequenc ", DirectoryTraversal
+"multipl directori travers administr consol earlier remot attack read arbitrari file local paramet cfide administr ", DirectoryTraversal
+"directori travers vulner probabl earlier version remot authent user read delet arbitrari file sequenc comb command ", DirectoryTraversal
+"directori travers vulner probabl earlier version remot authent user read arbitrari file determin file size sequenc xcrc command ", DirectoryTraversal
+"directori travers vulner ichat x when aim us remot attack creat arbitrari file directori travers sequenc inlin imag transfer oper ", DirectoryTraversal
+"travers vulner oscommerc remot attack view arbitrari file dot dot filenam argument ", DirectoryTraversal
+"directori travers vulner anteco visual technolog ownserv earlier remot attack read arbitrari file dot dot url ", DirectoryTraversal
+"directori travers vulner through possibl earlier version possibl earlier version remot attack read arbitrari file dot dot queri string ", DirectoryTraversal
+"directori travers vulner safenet sentinel protect server earlier earlier remot attack read arbitrari file dot dot backslash uri note issu reportedli exist becaus incomplet fix ", DirectoryTraversal
+"befor when server configur ip base virtual host remot attack includ execut arbitrari file http host header ", FileInclude
+"method cgihttpserv modul remot attack read script sourc code http get request lack slash charact begin uri ", FileInclude
+"php remot file includ vulner remot attack execut arbitrari php code url glob rootdir paramet ", FileInclude
+"directori travers vulner allow remot attack includ execut arbitrari local file dot dot action paramet relat ", FileInclude
+"disput directori travers vulner remot attack includ execut arbitrari local file dot dot paramet note issu ha been disput reliabl third parti ", FileInclude
+"php remot file inclus vulner earlier when enabl remot attack execut arbitrari php code url autoloadconfig loadfil paramet ", FileInclude
+"directori travers vulner earlier remot attack includ possibl execut arbitrari local file directori travers sequenc typefilt paramet ", FileInclude
+"file inclus vulner oscommerc execut arbitrari command paramet ", FileInclude
+"php remot file inclus vulner oscommerc remot attack execut arbitrari php code paramet ", FileInclude
+"multipl php remot file inclus allow remot attack execut arbitrari php code url paramet ", FileInclude
+"php remot file inclus vulner allow remot attack execut arbitrari php code url variabl ", FileInclude
+"directori travers vulner allow remot attack read arbitrari local file dot dot sequenc variabl ", FileInclude
+"directori travers vulner allow remot attack read arbitrari file dot dot rout paramet ", FileInclude
+"php remot file inclus vulner allow remot attack execut arbitrari php code paramet ", FileInclude
+"travers vulner phpgroupwar phpgw allow remot attack includ execut arbitrari local file dot dot app paramet ", FileInclude
+"directori travers vulner allow remot attack includ execut arbitrari local file dot dot cmd paramet ", FileInclude
+"directori travers vulner earlier when disabl remot attack read arbitrari file dot dot modul paramet ", FileInclude
+"directori travers vulner groupwar allow remot attack includ execut arbitrari local file directori travers sequenc _imag driver name ", FileInclude
+"script xss vulner tag cloud search script groupwar allow remot attack inject arbitrari web script unspecifi vector ", FileInclude
+"cross site script xss vulner remot attack inject arbitrari web script html style attribut url bbcode tag privat messag ", FileInclude
+"multipl directori travers when enabl remot attack includ execut arbitrari local file dot dot xoopsconfig languag paramet ", FileInclude
+"directori travers vulner earlier when enabl remot attack read arbitrari file dot dot _languag paramet ", FileInclude
+"multipl directori travers pm earlier punbb remot attack includ execut arbitrari file dot dot paramet includ pm ", FileInclude
+"directori travers vulner cpanel remot attack includ execut arbitrari local file directori travers sequenc paramet goahead action note issu onli cross privileg boundari when secur set activ sinc exploit requir upload execut code home directori ", FileInclude
+"php remot file inclus vulner allow remot attack execut arbitrari php code url paramet ", FileInclude
+"directori travers vulner function cpg earlier when charset utf remot attack includ execut arbitrari local file dot dot lang part serial data _data cooki ", FileInclude
+"directori travers vulner allow remot attack includ execut arbitrari file languag paramet user prefer page ", FileInclude
+"directori travers vulner remot attack includ execut arbitrari local file dot dot fct paramet note proven inform unknown detail obtain sole from third parti inform ", FileInclude
+"cross site script xss vulner allow remot attack inject arbitrari web script html fct paramet note proven inform unknown detail obtain sole from third parti inform ", FileInclude
+"php remot file inclus vulner aka idebox remot attack execut arbitrari php code url gorumdir paramet ", FileInclude
+"earlier doe requir authent set action modifi configur file which remot attack conduct directori travers attack execut arbitrari local file place directori travers sequenc configur set send request which caus us modifi configur ", FileInclude
+"disput multipl php remot file inclus smf remot attack execut arbitrari php code url paramet paramet note cve multipl third parti disput issu becaus file contain protect mechan against direct request ", FileInclude
+"php remot file inclus vulner phpprofil remot attack execut arbitrari php code url content paramet ", FileInclude
+"directori travers vulner allow remot attack includ execut arbitrari local file dot dot lang paramet ", FileInclude
+"multipl directori travers earlier remot attack read arbitrari file dot dot s paramet admin page pg paramet arbitrari modul demonstr read password hash dtb file under dati membri execut embed php code imag under upload avatar ", FileInclude
+"travers vulner earlier remot attack includ execut arbitrari local file dot dot phpex paramet ", FileInclude
+"directori travers vulner allow remot attack includ execut arbitrari local file dot dot filenam paramet differ vector than note proven inform unknown detail obtain sole from third parti inform ", FileInclude
+"directori travers vulner allow remot attack includ execut arbitrari local file dot dot selskin paramet note can leverag remot file inclus includ specifi url xposbox l arrai paramet ", FileInclude
+"multipl directori travers earlier remot attack includ execut arbitrari file absolut pathnam paramet encod sequenc paramet ", FileInclude
+"php remot file inclus vulner cpg remot attack execut arbitrari php code url sourcedir paramet ", FileInclude
+"multipl directori travers allow remot attack includ execut arbitrari local file dot dot lang paramet ", FileInclude
+"multipl directori travers allow remot attack includ execut arbitrari local file dot dot lang cooki languag paramet ", FileInclude
+"disput php remot file inclus vulner allow remot attack execut arbitrari php code url paramet note cve disput issu sinc set constant valu ", FileInclude
+"php remot file inclus vulner earlier remot attack execut arbitrari code url paramet ", FileInclude
+"earlier when enabl remot attack overwrit variabl xoopsopt nocommon conduct directori travers attack includ php file xoopsconfig languag demonstr inject php sequenc log file ", FileInclude
+"multipl php remot file inclus phpraid through remot attack execut arbitrari php code url paramet when phpbb portal enabl url paramet when smf portal enabl ", FileInclude
+"disput php remot file inclus vulner remot attack execut arbitrari php code url paramet note cve disput vulner becaus set constant valu ", FileInclude
+"php remot file inclus vulner possibl through remot attack execut arbitrari php code url scoreid paramet ", FileInclude
+"remot file inclus vulner ttcm earlier remot attack execut arbitrari code paramet ", FileInclude
+"php remot file inclus vulner allow remot attack execut arbitrari php code url paramet differ vector than ", FileInclude
+"earlier doe prevent page render insid frame third parti html document which make easier remot attack conduct clickjack attack craft web site ", CrossSiteScripting
+"multipl cross site script xss earlier remot attack inject arbitrari web script html vector involv drop down select list greater than charact squirrelspel spellcheck plugin error associ index order aka page ", CrossSiteScripting
+"multipl cross site request forgeri csrf earlier remot attack hijack authent unspecifi victim vector involv empti trash implement index order aka page differ issu than ", CrossSiteScripting
+"cross site script xss vulner asm remot attack inject arbitrari web script html paramet ", CrossSiteScripting
+"script xss vulner allow remot authent user inject arbitrari web script html real name field which present reader articl file upload demonstr htm html js file ", CrossSiteScripting
+"multipl cross site script xss allow remot attack inject arbitrari web script html unspecifi vector relat edit templat list' info attribut web administr interfac differ vulner than ", CrossSiteScripting
+"unspecifi vulner elog ha unknown impact attack vector when logbook contain html code probabl cross site script xss ", CrossSiteScripting
+"cross site script xss vulner modul earlier seri earlier seri earlier seri remot authent user inject arbitrari web script html upload file name contain xss sequenc file extens which lead inject within multipl choic http respons when extens omit request file ", CrossSiteScripting
+"crlf inject vulner modul earlier seri earlier seri earlier seri remot authent user inject arbitrari http header conduct http respons split attack upload file multi line name contain http header sequenc file extens which lead inject within multipl choic http respons when extens omit request file ", CrossSiteScripting
+"directori travers vulner interfac allow remot authent user write arbitrari file directori dot dot paramet ", CrossSiteScripting
+"function mishandl case thumbnail offset exce file size which remot attack obtain sensit inform from process memori craft tiff imag ", InformationDisclosure
+"ae ni implement h doe consid memori alloc dure certain pad check which remot attack obtain sensit cleartext inform pad oracl attack against ae cbc session note vulner exist becaus incorrect fix ", InformationDisclosure
+"allow remot attack obtain sensit stack layout inform craft edg side includ esi respons relat incorrect us assert compil optim ", InformationDisclosure
+"cross site script xss vulner remot attack inject arbitrari web script html contact name ", CrossSiteScripting
+"remot attack obtain sensit inform about upload file rss feed search result ", InformationDisclosure
+"function earlier remot attack obtain sensit inform q paramet which reveal instal path error messag ", InformationDisclosure
+"openid modul befor remot openid server read arbitrari file craft doctyp declar xrd file ", InformationDisclosure
+"doe properli sanit fail login attempt page contain sortabl tabl which includ usernam password link can read from http refer header extern web site visit from those link when page cach enabl page cach ", InformationDisclosure
+"remot attack obtain sensit node titl read menu ", InformationDisclosure
+"forum list befor doe properli check user permiss unpublish forum post which remot authent user obtain sensit inform post titl forum overview page ", InformationDisclosure
+"displai inform block user which might remot attack obtain sensit inform read search result ", InformationDisclosure
+"remot attack obtain sensit inform direct request php file which reveal instal path error messag demonstr certain other file ", InformationDisclosure
+"render cach system befor when us cach content user role remot authent user obtain privat content view user read cach ", InformationDisclosure
+"taxonomi modul befor when upgrad from earlier version doe properli restrict access unpublish content which remot authent user obtain sensit inform list page ", InformationDisclosure
+"allow form submiss redirect which remot attack obtain arbitrari form inform craft url ", InformationDisclosure
+"have you forgotten your password link user modul befor allow remot attack obtain sensit usernam inform leverag configur permit us email address login modul permit log ", InformationDisclosure
+"organ group og remot attack obtain sensit inform privat group name unspecifi vector ", InformationDisclosure
+"system modul befor might remot attack hijack authent site administr request download run file arbitrari json encod content aka reflect file download vulner ", InformationDisclosure
+"doe properli isol cach data differ anonym user which remot anonym user obtain sensit interim form input inform opportunist situat unspecifi vector ", InformationDisclosure
+"parser befor remot attack obtain sensit inform craft request which reveal full path error messag ", InformationDisclosure
+"remot attack obtain sensit inform craft request which reveal full path error messag ", InformationDisclosure
+"doe place list which remot authent user bypass intend restrict read arbitrari http request consequ discov session id valu craft web applic ", InformationDisclosure
+"mapper compon befor process redirect consid secur constraint filter which remot attack determin exist directori url lack trail slash charact ", InformationDisclosure
+"remot attack obtain sensit inform craft request which reveal full path error messag ", InformationDisclosure
+"function client allow remot server obtain sensit inform from process memori request transmiss entir buffer demonstr read privat kei ", InformationDisclosure
+"bundl jira servic desk instal attach wrong imag e mail notif when user view issu inlin wiki markup referenc imag attach which might remot attack obtain sensit inform updat differ issu includ wiki markup extern imag refer ", InformationDisclosure
+"ldb us ad ldap server befor mishandl string length which remot attack obtain sensit inform from daemon heap memori send craft packet read error messag databas valu ", InformationDisclosure
+"befor remot attack obtain sensit inform craft request which reveal full path error messag ", InformationDisclosure
+"microsoft net framework when customerror configur disabl remot attack obtain sensit configur file inform craft request aka inform disclosur vulner ", InformationDisclosure
+"function reli pid valu initi which make easier context depend attack predict result string leverag knowledg random string obtain earlier process same pid ", InformationDisclosure
+"doe reset random seed upon fork which make easier context depend attack predict random number leverag knowledg number sequenc obtain differ child process relat issu issu exist becaus regress dure develop ", InformationDisclosure
+"function when path base author us remot authent user obtain sensit path inform read histori node ha been move from hidden path ", InformationDisclosure
+"remot attack obtain sensit inform from process memori caus denial servic buffer over read applic crash craft length valu conjunct craft serial data phar archiv relat function ", InformationDisclosure
+"function doe verifi uri properti string which remot attack obtain sensit inform provid craft serial data int data type relat type confus issu ", InformationDisclosure
+"through creat world readabl permiss chang them after data ha been written which introduc race condit local user obtain usernam password read file ", InformationDisclosure
+"function doe properli handl return valu function which remot attack read process memori caus denial servic read crash malform dn request ", InformationDisclosure
+"through linux unix window store password dure process certain sql statement monitor audit facil which remot authent user obtain sensit inform command associ facil ", InformationDisclosure
+"snmp implement doe properli handl configur data which remot authent user obtain sensit inform unspecifi vector ", InformationDisclosure
+"befor includ invalid languag unknown languag error respons contain csrf token mai sent compress which make easier remot attack conduct breach attack determin token seri craft request ", InformationDisclosure
+"dsmtca client tsm local user discov backup restor encrypt kei password unspecifi vector ", InformationDisclosure
+"unspecifi vulner compon when run window remot authent user affect vector relat ", InformationDisclosure
+"epolici orchestr epo us same secret kei across differ custom instal which attack obtain administr password leverag knowledg encrypt password ", InformationDisclosure
+"remot attack spoof openid openid connect cooki consequ obtain sensit inform craft url ", InformationDisclosure
+"plugin allow local user obtain sensit inform from ini configur file extra opt flag differ vulner than ", InformationDisclosure
+"plugin allow local user obtain sensit inform from ini configur file extra opt flag differ vulner than ", InformationDisclosure
+"allow local user obtain sensit inform symlink attack configur file extra opt flag note vulner exist becaus incomplet fix ", InformationDisclosure
+"webspher applic doe properli handl header which remot attack obtain sensit cooki authent data unspecifi method ", InformationDisclosure
+"beta remot attack obtain metadata about hidden object craft url ", InformationDisclosure
+"beta remot attack read arbitrari blob file imag store custom content type craft url ", InformationDisclosure
+"beta remot attack read privat data structur request view without name ", InformationDisclosure
+"us beta remot attack obtain password vector involv time discrep password valid ", InformationDisclosure
+"integ overflow function remot attack caus denial servic stack base buffer overflow possibl have unspecifi other impact craft extract oper zip archiv ", Overflow
+"multipl integ overflow mcrypt extens remot attack caus denial servic heap base buffer overflow applic crash possibl have unspecifi other impact craft length valu relat function ", Overflow
+"overflow function h remot attack caus denial servic heap memori corrupt larg amount binari data ", Overflow
+"overflow function h remot attack caus denial servic heap memori corrupt larg amount data ", Overflow
+"overflow befor allow remot attack execut arbitrari code craft edg side includ esi respons ", Overflow
+"buffer overflow might remot attack caus denial servic execut arbitrari code seed manag report craft data ", Overflow
+"stack base buffer overflow befor allow remot http server caus denial servic execut arbitrari code craft edg side includ esi respons ", Overflow
+"integ overflow befor s g remot attack caus denial servic heap memori corrupt null pointer derefer possibl have unspecifi other impact long digit string mishandl function relat ", Overflow
+"multipl integ overflow befor remot attack caus denial servic possibl have unspecifi other impact long string function lead heap base buffer overflow ", Overflow
+"stack base buffer overflow function remot attack caus denial servic possibl have unspecifi other impact larg length valu demonstr mishandl e mail attach imap extens ", Overflow
+"function client when certain proxi forward option enabl do properli maintain connect file descriptor which remot server caus denial servic heap base buffer overflow possibl have unspecifi other impact request mani forward ", Overflow
+"overflow function allow remot attack execut arbitrari code svn protocol string which trigger heap base buffer overflow read ", Overflow
+"multipl stack base buffer overflow json pars attack caus denial servic server crash unspecifi vector which properli handl json jsonb valu ", Overflow
+"stack base buffer overflow through us other product remot authent user execut arbitrari code unspecifi vector ", Overflow
+"overflow befor window might local user gain privileg craft valu properli handl when construct filenam backup file ", Overflow
+"heap base buffer overflow function befor context depend attack execut arbitrari code unspecifi vector involv string ljust string center string rjust note some detail obtain from third parti inform ", Overflow
+"heap base buffer overflow befor trunk revis context depend attack caus denial servic segment fault possibl execut arbitrari code string convert float point valu demonstr us method ", Overflow
+"multipl integ overflow befor remot authent user have unspecifi impact vector relat function function which trigger buffer overflow note issu split from becaus ha differ set affect version ", Overflow
+"multipl integ overflow other unspecifi function remot authent user have unspecifi impact attack vector which trigger buffer overflow note identifi ha been split due differ affect version us hstore vector ", Overflow
+"multipl buffer overflow remot authent user have unspecifi impact attack vector differ vulner than ", Overflow
+"multipl stack base buffer overflow remot authent user caus denial servic crash possibl execut arbitrari code vector relat incorrect maxdatelen constant datetim valu involv interv timestamp timezon differ vulner than ", Overflow
+"bitsubstr function remot authent user caus denial servic daemon crash have unspecifi other impact vector involv neg integ third argument demonstr select statement contain call substr function bit string relat overflow ", Overflow
+"buffer overflow allow remot attack execut arbitrari code ", Overflow
+"vulner function earlier local user caus denial servic possibl execut arbitrari code larg neg argument possibl trigger integ signed error buffer overflow ", Overflow
+"integ overflow earlier through remot authent user caus denial servic daemon crash select statement mani left join claus relat certain hashtabl size calcul ", Overflow
+"heap base buffer overflow repeat function allow attack execut arbitrari code caus repeat gener larg string ", Overflow
+"buffer overflow also incorrectli identifi earlier attack caus denial servic possibl execut arbitrari code possibl result integ overflow ", Overflow
+"buffer overflow set time zone enivron variabl earlier local user caus denial servic possibl execut arbitrari code ", Overflow
+"buffer overflow gettoken function intarrai arrai modul befor remot authent user caus denial servic crash possibl execut arbitrari code integ larg number digit unspecifi function ", Overflow
+"buffer overflow earlier mai attack execut arbitrari code larg number argument refcursor function which lead heap base buffer overflow differ vulner than ", Overflow
+"multipl buffer overflow earlier mai attack execut arbitrari code larg number variabl sql statement be handl function larg number variabl select statement be handl function larg number arbitrari variabl select statement be handl function larg number variabl fetch statement be handl function differ set than ", Overflow
+"overflow odbc driver allow remot attack caus denial servic crash ", Overflow
+"integ overflow function remot ftp server execut arbitrari code long repli list command lead heap base buffer overflow ", Overflow
+"multipl stack base buffer overflow function allow remot attack execut arbitrari code craft length valu tar phar zip archiv ", Overflow
+"multipl integ overflow audioop modul context depend attack caus denial servic applic crash larg fragment demonstr call long string first argument lead buffer overflow note vulner exist becaus incorrect fix ", Overflow
+"overflow allow context depend attack obtain sensit inform from process memori larg size offset buffer function ", Overflow
+"buffer overflow function befor remot attack execut arbitrari code craft string ", Overflow
+"heap base buffer overflow function remot attack execut arbitrari code vector trigger creation multipl dictionari ", Overflow
+"reject do us candid number consultid none reason candid withdrawn it cna further investig show cannot consid secur issu origin name product becaus product' specif note none ", Overflow
+"integ overflow function earlier us zip extens other product remot attack caus denial servic applic crash possibl execut arbitrari code zip archiv contain mani entri lead heap base buffer overflow ", Overflow
+"stack base buffer overflow dsmtca client tsm through through through unix linux os x local user gain privileg unspecifi vector ", Overflow
+"stack base buffer overflow function allow remot attack caus denial servic applic crash possibl execut arbitrari code includ timezon field date lead improp xml rpc encod ", Overflow
+"integ overflow function remot attack caus denial servic applic crash possibl execut arbitrari code argument unseri function trigger calcul larg length valu ", Overflow
+"buffer overflow function mkgmtime implement xmlrpc extens remot attack caus denial servic applic crash craft first argument function craft argument function relat read oper ", Overflow
+"error snmphandleudp function when snmp port configur remot attack caus denial servic crash possibl execut arbitrari code craft udp snmp request which trigger heap base buffer overflow ", Overflow
+"stack base buffer overflow through through through linux unix window remot authent user execut arbitrari code craft alter modul statement ", Overflow
+"overflow function file through us fileinfo compon allow remot attack caus denial servic applic crash craft cdf file note vulner exist becaus incomplet fix ", Overflow
+"buffer overflow function allow remot dn server caus denial servic applic crash possibl execut arbitrari code craft dn record relat function function note issu exist becaus incomplet fix ", Overflow
+"overflow prefer editor backup archiv client tsm window os x local user caus denial servic applic crash hang unspecifi vector ", Overflow
+"multipl buffer overflow befor i remot attack caus denial servic applic crash possibl have unspecifi other impact invalid srp g b paramet ", Overflow
+"phar extens remot attack execut arbitrari code craft filenam demonstr mishandl charact function ", RemoteCodeExecution
+"format string vulner function remot attack execut arbitrari code format string specifi get call ", RemoteCodeExecution
+"implement c remot attack execut arbitrari code caus denial servic buffer underflow memori corrupt ani field craft serial data aka neg zero issu ", RemoteCodeExecution
+"microsoft net mishandl librari load which local user gain privileg craft applic aka net remot code execut vulner ", RemoteCodeExecution
+"file upload featur befor remot authent user bypass protect mechan execut arbitrari php code null byte file name ", RemoteCodeExecution
+"function vb remot attack post comment privileg access multipl input filter execut arbitrari code preview comment which process normal form valid routin ", RemoteCodeExecution
+"unrestrict file upload vulner modul befor allow remot authent user execut arbitrari code upload file execut extens which valid ", RemoteCodeExecution
+"remot attack obtain sensit inform possibl re instal execut arbitrari code extern databas server relat transient condit ", RemoteCodeExecution
+"doe prevent user from modifi user signatur after associ comment format ha been chang administr control input format which remot authent user inject arbitrari web script possibl code craft user signatur ", RemoteCodeExecution
+"unknown vulner through remot attack execut arbitrari php code public comment post ", RemoteCodeExecution
+"when us might remot attack execut arbitrari code vector relat session data truncat ", RemoteCodeExecution
+"befor when us unspecifi third parti modul perform form valid even when csrf valid ha fail which might remot attack trigger applic specif impact arbitrari code execut applic specif vector ", RemoteCodeExecution
+"when run under certain apach configur when fileinfo overrid disabl within htaccess remot attack execut arbitrari code upload file multipl extens variant ", RemoteCodeExecution
+"earlier doe properli unset variabl when input data includ numer paramet valu match alphanumer parameter' hash valu which remot attack execut arbitrari code invok function through callback paramet default uri demonstr _menu callback callback paramet note could argu vulner due bug unset command proper fix should so should treat vulner ", RemoteCodeExecution
+"when configur databas server reachabl remot attack execut arbitrari code vector caus modifi ", RemoteCodeExecution
+"intel epolici epo earlier hotfix hotfix remot attack execut arbitrari code craft serial java object relat apach common collect acc librari ", RemoteCodeExecution
+"vulner server remot attack execut arbitrari code craft request aka window us after free vulner ", RemoteCodeExecution
+"wl secur compon remot attack execut arbitrari command craft serial java object protocol traffic tcp port relat note scope cve limit weblog server product ", RemoteCodeExecution
+"method connect through remot attack conduct php object inject attack execut arbitrari php code craft serial object argument paramet ajax api hook ", RemoteCodeExecution
+"untrust search path vulner through window local user gain privileg trojan hors file current work directori note vendor sai determin longtim behavior cannot realli alter point ", RemoteCodeExecution
+"microsoft net remot attack caus denial servic web site craft request aka mvc denial servic vulner ", RemoteCodeExecution
+"net improperli count object perform arrai copi which remot attack execut arbitrari code craft xaml browser applic xbap bypass code access secur restrict craft net applic aka net elev privileg vulner ", RemoteCodeExecution
+"default configur enabl dynam script which remot attack execut arbitrari mvel express java code sourc paramet _search note onli violat vendor' intend secur polici user doe run it own independ virtual machin ", RemoteCodeExecution
+"webrick through patchlevel through patchlevel through patchlevel write data log file without sanit non printabl charact which might remot attack modifi window' titl possibl execut arbitrari command overwrit file http request contain escap sequenc termin emul ", RemoteCodeExecution
+"ryujit compil produc incorrect code dure attempt optim which remot attack execut arbitrari code craft net applic aka ryujit optim elev privileg vulner differ vulner than ", RemoteCodeExecution
+"ryujit compil produc incorrect code dure attempt optim which remot attack execut arbitrari code craft net applic aka ryujit optim elev privileg vulner differ vulner than ", RemoteCodeExecution
+"valid function procedur languag pl allow remot authent user gain privileg function defin anoth languag allow directli call user due permiss ", RemoteCodeExecution
+"pl tcl implement befor befor befor load tcl code from tabl regardless table' ownership permiss which remot authent user databas creation privileg execut arbitrari tcl code creat tabl insert craft tcl script ", RemoteCodeExecution
+"through give public execut access certain charact convers function which unprivileg user call those function malici unknown impact aka charact convers vulner ", RemoteCodeExecution
+"befor befor befor doe properli restrict pl perl procedur which remot authent user databas creation privileg execut arbitrari perl code craft script relat safe modul aka perl note some sourc report issu same ", RemoteCodeExecution
+"doe properli manag session local state dure execut index function databas superus which remot authent user gain privileg tabl craft index function demonstr function modifi prepar statement relat issu ", RemoteCodeExecution
+"probabl later version when local trust authent enabl databas link librari dblink instal remot attack access arbitrari account execut arbitrari queri dblink host paramet proxi connect from ", RemoteCodeExecution
+"probabl later version when pl pg plpgsql languag ha been creat grant certain plpgsql privileg public domain which remot attack creat execut function demonstr function perform local brute forc password guess attack which mai evad intrus detect ", RemoteCodeExecution
+"databas link librari dblink implement function creat statement map arbitrari librari base c program languag which remot authent superus map execut function from ani librari demonstr us system function gain shell access ", RemoteCodeExecution
+"saveobject function allow remot attack execut arbitrari command shell metacharact object paramet ", RemoteCodeExecution
+"function cupsd perform incorrect free oper multipl valu attribut which remot attack trigger data corrupt refer count string craft request demonstr replac configur file consequ execut arbitrari code ", RemoteCodeExecution
+"method doe verifi arrai which remot attack execut arbitrari code provid craft serial data unexpect data type relat type confus issu ", RemoteCodeExecution
+"implement truncat pathnam upon encount charact which might remot attack bypass intend extens restrict execut file unexpect name craft first argument note vulner exist becaus incomplet fix ", RemoteCodeExecution
+"through befor remot attack execut arbitrari code send craft instruct manag port session ", RemoteCodeExecution
+"multipl race condit allow remot authent user gain privileg leverag thread conflict result java code execut outsid context configur ejb run user ", RemoteCodeExecution
+"remot attack execut arbitrari code craft http request aka remot code execut vulner ", RemoteCodeExecution
+"groovi script engin remot attack bypass sandbox protect mechan execut arbitrari shell command craft script ", RemoteCodeExecution
+"netlogon server implement smbd perform free oper uniniti stack pointer which remot attack execut arbitrari code craft netlogon packet us rpc api demonstr packet reach function ", RemoteCodeExecution
+"allow remot authent user commit permiss execut arbitrari command shell metacharact filenam ", RemoteCodeExecution
+"function remot attack execut arbitrari code caus denial servic uniniti pointer free applic crash craft exif data jpeg imag ", RemoteCodeExecution
+"cgi compon through through through when mmap us read php file doe properli consid mapping' length dure process invalid file begin charact lack newlin charact which caus read might remot attack obtain sensit inform from php cgi process memori leverag abil upload php file trigger unexpect code execut valid script present memori locat adjac map ", RemoteCodeExecution
+"vulner function remot attack execut arbitrari code craft unseri call leverag improp handl duplic kei within serial properti object differ vulner than ", RemoteCodeExecution
+"modul asterisk record interfac ari allow remot attack execut arbitrari code coocki relat php unseri function exploit wild ", RemoteCodeExecution
+"beta remot attack execut python code unspecifi vector relat admin interfac ", RemoteCodeExecution
+"sandbox whitelist function beta remot authent user certain privileg bypass python sandbox restrict execut arbitrari python code vector relat import ", RemoteCodeExecution
+"sql inject vulner befor remot attack execut arbitrari sql command vector relat inappropri placehold numer field ", SQLinjection
+"inject vulner comment filter system befor remot attack execut arbitrari command comment ", SQLinjection
+"multipl sql inject vb allow remot attack execut arbitrari sql command modul pass input function demonstr ajaxload ubrows contribut modul ", SQLinjection
+"sql inject vulner modul earlier remot attack execut arbitrari sql command unspecifi vector ", SQLinjection
+"multipl sql inject modul remot attack execut arbitrari sql command unspecifi vector ", SQLinjection
+"sql inject vulner befor remot attack execut arbitrari sql command count from variabl b c ", SQLinjection
+"sql inject vulner function allow remot attack execut arbitrari sql command comment mishandl after retriev from trash ", SQLinjection
+"crlf inject vulner user assist remot attack execut arbitrari sql command craft file contain object name newlin which insert sql script us when databas restor ", SQLinjection
+"multibyt support encod consum extra charact when process charact cannot convert which could remov escap charact from queri make applic subject sql inject attack ", SQLinjection
+"interact error jdbc driver when us server option enabl default configur doe properli escap unspecifi jdbc statement paramet which remot attack perform sql inject attack note claim upstream develop plan disput issu offici disput ha been post ", SQLinjection
+"function databas abstract drupal core doe properli construct prepar statement which remot attack conduct sql inject attack arrai contain craft kei ", SQLinjection
+"inject vulner lighttpd allow remot attack execut arbitrari command host name relat ", SQLinjection
+"multipl sql inject possibl earlier remot attack remot authent user execut arbitrari sql command macaddress element getuploadpath getkbot soap request id paramet order paramet ", SQLinjection
+"sql inject vulner function otr remot attack execut arbitrari sql command vector relat ticket search url ", SQLinjection
+"inject befor remot authent user execut arbitrari command scale paramet paramet ", SQLinjection
+"multipl sql inject epolici earlier epolici epo extens agent ma remot authent user execut arbitrari sql command uid paramet differ vulner than ", SQLinjection
+"sql inject vulner compon epo allow remot attack execut arbitrari sql command craft request over agent server commun channel ", SQLinjection
+"replic code possibl through through through through remot authent user execut arbitrari sql command vector relat binari log note oracl ha comment claim from downstream vendor fix incomplet ", SQLinjection
+"execut comment featur befor when run certain slave configur which slave run newer version than master remot attack execut arbitrari sql command custom comment ", SQLinjection
+"sql inject vulner remot authent user execut arbitrari sql command vector involv creat index indextyp ", SQLinjection
+"sql inject vulner manag remot attack execut arbitrari sql command usernam paramet ", SQLinjection
+"sql inject vulner gui manag consol befor remot attack execut arbitrari sql command usernam paramet ", SQLinjection
+"doe properli perform temporari chang direct dure import environ variabl which make easier remot attack conduct sql inject attack craft request relat ", SQLinjection
+"sql inject vulner remot attack execut arbitrari sql command paramet addcat action ", SQLinjection
+"sql inject vulner allow remot authent administr execut arbitrari sql command paramet possibl other unspecifi compon ", SQLinjection
+"sql inject vulner server earlier remot attack execut arbitrari sql command input filter variabl which store data xml file ", SQLinjection
+"sql inject vulner earlier remot attack execut arbitrari sql command paramet ", SQLinjection
+"multipl sql inject multi user mu allow remot attack execut arbitrari sql command paramet method xmlrpc interfac other unspecifi paramet relat earli databas escap miss valid queri string like paramet ", SQLinjection
+"unspecifi vulner compon remot authent user affect integr unknown vector relat servic level agreement ", SQLinjection
+"sql inject vulner function allow remot authent user execut arbitrari sql command send trackback field ", SQLinjection
+"unspecifi vulner compon remot authent user affect integr relat ", SQLinjection
+"sql inject vulner allow remot attack execut arbitrari sql command searchstr paramet ", SQLinjection
+"sql inject vulner cart through remot attack execut arbitrari sql command shipkei paramet ", SQLinjection
+"multipl sql inject earlier remot attack execut arbitrari sql command gpc data function which can leverag modifi element remot authent user execut arbitrari sql command session id within cooki quantiti field function id paramet when ad item shop cart redempt code when check out paramet ", SQLinjection
+"inject vulner remot attack execut arbitrari command productid paramet ", SQLinjection
+"sql inject vulner oscommerc onlin remot attack execut arbitrari sql command paramet ", SQLinjection
+"sql inject vulner earlier remot attack execut arbitrari sql command paramet ", SQLinjection
+"sql inject vulner allow remot attack execut arbitrari sql command order paramet ", SQLinjection
+"multipl sql inject allow remot attack execut arbitrari sql command search paramet phpcoinsessid paramet id ", SQLinjection
+"sql inject vulner zen patch possibl other version remot attack execut arbitrari sql paramet ", SQLinjection
+"sql inject vulner allow remot attack execut arbitrari sql command phpcoinsessid cooki ", SQLinjection
+"sql inject through when disabl remot attack execut arbitrari sql command id paramet when ad updat shop cart ", SQLinjection
+"sql inject vulner function through when disabl remot attack execut arbitrari sql command arrai paramet action differ vulner than ", SQLinjection
+"multipl sql inject might remot attack execut arbitrari sql command unspecifi paramet certain other file includ directori relat miss sanit option variabl possibl cooki modif ", SQLinjection
+"inject through remot attack execut arbitrari command faq mod id paramet page mod id paramet siteinfo paramet articl order paramet domain paramet invoic ", SQLinjection
+"cross site script xss vulner through remot attack inject arbitrari web script html new paramet w paramet e paramet o paramet possibl other script ", SQLinjection
+"sql inject vulner allow remot attack execut arbitrari sql command page paramet ", SQLinjection
+"inject vulner aka addit imag modul oscommerc remot attack execut arbitrari command paramet ", SQLinjection
+"sql inject vulner oscommerc remot attack execut arbitrari sql command id arrai paramet ", SQLinjection
+"inject phpgroupwar phpgw allow remot attack execut arbitrari command unspecifi paramet phpgwapi inc ", SQLinjection
+"unspecifi vulner earlier remot authent user affect avail vector relat server optim ", UnspecifiedVulnerability
+"vulner earlier earlier earlier mariadb allow remot authent user affect avail vector relat server type ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier remot authent user affect avail vector relat server secur encrypt ", UnspecifiedVulnerability
+"vulner earlier earlier earlier mariadb allow remot attack affect vector relat server secur encrypt ", UnspecifiedVulnerability
+"unspecifi vulner earlier remot authent user affect avail vector relat server optim ", UnspecifiedVulnerability
+"unspecifi vulner earlier remot administr affect avail vector relat server replic ", UnspecifiedVulnerability
+"vulner earlier earlier earlier mariadb allow remot authent user affect avail vector relat server dml ", UnspecifiedVulnerability
+"mishandl c bitwis shift oper exce size express which make easier remot attack defeat cryptograph protect mechan leverag improp rsa kei generux platform ", UnspecifiedVulnerability
+"function sshd through when uselogin featur enabl pam configur read file user home directori local user gain privileg trigger craft environ bin login program demonstr environ variabl ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat dml ", UnspecifiedVulnerability
+"unspecifi vulner compon local user affect integr unknown vector differ vulner than ", UnspecifiedVulnerability
+"netlogon servic when domain control configur remot attack spoof comput name secur channel' endpoint obtain sensit session inform run craft applic leverag abil sniff network traffic relat issu ", UnspecifiedVulnerability
+"unspecifi vulner compon allow remot attack affect integr vector relat consol ", UnspecifiedVulnerability
+"unspecifi vulner compon local user affect integr unknown vector differ vulner than ", UnspecifiedVulnerability
+"unspecifi vulner compon remot attack affect integr vector relat consol differ vulner than ", UnspecifiedVulnerability
+"unspecifi vulner compon remot attack affect integr vector relat core compon ", UnspecifiedVulnerability
+"unspecifi vulner compon remot attack affect integr vector relat consol differ vulner than ", UnspecifiedVulnerability
+"unspecifi vulner compon server remot attack affect avail unknown vector ", UnspecifiedVulnerability
+"unspecifi vulner compon remot attack affect integr avail unknown vector ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier mariadb allow local user affect avail vector relat innodb ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat lock ", UnspecifiedVulnerability
+"unspecifi vulner compon remot attack affect integr vector relat consol ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat ft ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat optim ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect vector relat json ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat innodb differ vulner than ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat innodb differ vulner than ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat optim ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat myisam ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat partit ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat perform schema ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier local user affect avail vector relat option ", UnspecifiedVulnerability
+"vulner earlier earlier earlier mariadb allow local user affect avail vector relat secur privileg ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat ddl ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat dml ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat ft ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect integr avail vector relat dml ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier local user affect integr avail vector relat feder ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect vector relat dml ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat ps ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat ps ", UnspecifiedVulnerability
+"unspecifi vulner earlier local user affect avail vector relat optim ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier mariadb allow local user affect avail vector relat innodb ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier earlier mariadb allow local user affect avail vector relat replic ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier remot attack affect integr avail vector relat pluggabl authent ", UnspecifiedVulnerability
+"unspecifi vulner earlier earlier local user affect avail vector relat secur encrypt ", UnspecifiedVulnerability
+"unspecifi vulner compon remot attack affect integr avail vector relat java messag servic ", UnspecifiedVulnerability
+"microsoft mishandl signatur valid unspecifi element xml document which remot attack spoof signatur modifi document aka net xml valid secur featur bypass ", UnspecifiedVulnerability
+"xml rpc system befor might make easier remot attack conduct brute forc attack larg number call made onc same method ", UnspecifiedVulnerability
+"befor remot attack have unspecifi impact craft doctyp declar xrd document ", UnspecifiedVulnerability
